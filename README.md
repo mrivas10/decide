@@ -15,7 +15,7 @@ que sea entendible y extensible.
 
 Subsistemas, apps y proyecto base
 ---------------------------------
-
+¡¡¡CAMBIO!!!
 El proyecto se divide en [subsistemas](doc/subsistemas.md), los cuales estarán desacoplados
 entre ellos. Para conseguir esto, los subsistemas se conectarán entre si mediante API y necesitamos un proyecto base donde configurar las ruts de estas API.
 
