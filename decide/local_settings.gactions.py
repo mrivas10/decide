@@ -20,7 +20,7 @@ DATABASES = {
         'NAME': 'decide',
         'USER': 'decide',
 	'PASSWORD': 'decide',
-        'HOST': 'db',
+        'HOST': 'localhost',
         'PORT': '5432',
     }
 }
